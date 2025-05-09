@@ -13,7 +13,7 @@ dependencies = [
     "numpy",
     "overrides==3.1.0",
     # "pytest",
-    "repro==0.1.6",
+    # "repro==0.1.1",
     "requests",
     "scipy>=1.5.2",
     "sacrebleu==2.5.0"
