@@ -1,0 +1,21 @@
+[project]
+name = "sacrerouge"
+version = "0.2.5"
+author="Daniel Deutsch"
+description="An open-source library for summarization evaluation metrics"
+requires-python= ">=3.11"
+dependencies = [
+    "googledrivedownloader",
+    "jsons",
+    "lxml",
+    "matplotlib",
+    "nltk",
+    "numpy",
+    "overrides==3.1.0",
+    # "pytest",
+    "repro==0.1.1",
+    "requests",
+    "scipy>=1.5.2",
+    "sacrebleu==2.0.0"
+]
+
