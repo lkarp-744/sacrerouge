@@ -4,7 +4,7 @@ import pkgutil
 import sys
 import urllib
 from contextlib import contextmanager
-from google_drive_downloader import GoogleDriveDownloader
+from googledrivedownloader import GoogleDriveDownloader
 from pathlib import Path
 from shutil import which
 from typing import Generator, List, T, Union
